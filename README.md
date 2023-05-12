@@ -1,4 +1,9 @@
-## Documentatie under construction
+## Hey Timo!
+De documentatie wordt aan gewerkt maar de nieuwe documentatie is hier nog niet zichtbaar. Wat is er wel?
+
+- Nieuw project zonder EF
+- Inlog functionaliteit
+- Groepen functionaliteit, Je kan een Groep aanmaken en andere gebruikers een uitnodiging sturen om de groep te betreden. Dit werkt al en de gebruiker kan de uitnodiging ook zien als hij/zij is uitgenodigd.
 
 # Welkom bij KartStats!
 
