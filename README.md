@@ -1,3 +1,5 @@
+## Documentatie under construction
+
 # Welkom bij KartStats!
 
 KartStats is een webapplicatie waarin je jou resultaten van gereden heats per circuit bij kunt houden en kunt vergelijken met de resultaten van anderen.
