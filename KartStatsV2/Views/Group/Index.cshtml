@@ -1,0 +1,39 @@
+﻿@model IEnumerable<KartStatsV2.Models.Group>
+
+@{
+    ViewBag.Title = "Groepen";
+}
+
+<h2>Groepen</h2>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Naam</th>
+                <th>Beheerder</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var group in Model)
+            {
+                <tr>
+                    <td>@Html.ActionLink(group.Name, "Details", new { id = group.GroupId })</td>
+                    <td>@group.AdminUserId</td> <!-- We tonen hier alleen de AdminUserId, je zou hier de gebruikersnaam kunnen tonen -->
+                    <td>
+                        @Html.ActionLink("Nodig een gebruiker uit", "Invite", "Group", new { groupId = group.GroupId }, null) |
+                        @Html.ActionLink("Bewerken", "Edit", new { id = group.GroupId }) |
+                        @Html.ActionLink("Verwijderen", "Delete", new { id = group.GroupId })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="row">
+        <div class="col-md-10">
+            @Html.ActionLink("Nieuwe Groep Maken", "Create", null, new { @class = "btn btn-default" })
+        </div>
+    </div>
+</div>
