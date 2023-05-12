@@ -17,7 +17,7 @@ Als hobby karter zou ik graag een overzicht van alle resultaten van gereden heat
 ## UI Schets
 Om wat meer inzicht te creëren over hoe deze webapplicatie ongeveer gaat werken is deze schets gemaakt waarin de requirements verwerkt zijn.<br>
 
-![Conceptueel Model](KartStats/Images/Schets.png)
+![Conceptueel Model](KartStats/Content/Images/Schets.png)
 
 ## Contextdiagram en Conceptueel model
 
