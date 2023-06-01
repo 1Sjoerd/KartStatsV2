@@ -11,7 +11,7 @@ Om wat meer inzicht te creëren over hoe deze webapplicatie ongeveer gaat werken
 
 ## Requirements
 
-Als hobby karter zou ik graag een overzicht van alle resultaten van gereden heats kunnen inzien om een beeld te krijgen van hoe het gaat en waar verbeterd zou kunnen worden.  
+Als karter zou ik graag een overzicht van alle resultaten (Snelste rondes) kunnen inzien om een beeld te krijgen wie de snelste is, hoe ver jij daar vanaf staat en hoeveel tijd jij nog moet zien te vinden op het circuit.<br><br>
 KARTER:
 - Als karter wil ik kunnen inloggen
 - Als karter wil ik een account kunnen aanmaken
