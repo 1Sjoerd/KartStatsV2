@@ -12,14 +12,18 @@ KartStats is een webapplicatie waarin je jou resultaten van gereden heats per ci
 ## Requirements
 
 Als hobby karter zou ik graag een overzicht van alle resultaten van gereden heats kunnen inzien om een beeld te krijgen van hoe het gaat en waar verbeterd zou kunnen worden.  
+KARTER:
 - Als karter wil ik kunnen inloggen
-- Als karter wil ik mijn resultaten per heat kunnen invoeren
-- Als karter wil ik de resultaten van gereden heats kunnen inzien
+- Als karter wil ik een account kunnen aanmaken
+- Als karter wil ik mijn resultaten (Snelste ronde) kunnen invoeren
+- Als karter wil ik de resultaten van gereden heats (Snelste rondes) kunnen inzien
 - Als karter wil ik de resultaten kunnen zien in een grafiek
 - Als karter wil ik mijn resultaten per circuit kunnen inzien
-- Als karter wil ik de resultaten van andere in dezelfde heat kunnen inzien
-- Als karter wil ik de gemiddelde rondetijden per rijder per heat kunnen zien
-- Als karter wil ik de snelste tijd per heat en per circuit kunnen zien
+- Als karter wil ik de snelste tijd per circuit kunnen zien
+- Als karter wil ik een groep kunnen aanmaken en gebruikers kunnen uitnodigen/verwijderen uit de groep
+
+BEHEERDER:
+- Als beheerder wil ik circuits kunnen toevoegen
 
 ## UI Schets
 Om wat meer inzicht te creëren over hoe deze webapplicatie ongeveer gaat werken is deze schets gemaakt waarin de requirements verwerkt zijn.<br>
