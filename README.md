@@ -1,13 +1,13 @@
-## Hey Timo!
-De documentatie wordt aan gewerkt maar de nieuwe documentatie is hier nog niet zichtbaar. Wat is er wel?
-
-- Nieuw project zonder EF
-- Inlog functionaliteit
-- Groepen functionaliteit, Je kan een Groep aanmaken en andere gebruikers een uitnodiging sturen om de groep te betreden. Dit werkt al en de gebruiker kan de uitnodiging ook zien als hij/zij is uitgenodigd.
-
 # Welkom bij KartStats!
 
-KartStats is een webapplicatie waarin je jou resultaten van gereden heats per circuit bij kunt houden en kunt vergelijken met de resultaten van anderen.
+KartStats is een webapplicatie waarin je jou kart resultaten kunt bijhouden en kunt vergelijken met de resultaten van anderen.
+
+## Het idee
+KartStats is een karting resultaten tracker waarin je je resultaten kunt opslaan en jezelf kunt vergelijken met andere gebruikers.<br>
+Doormiddel van groepen die gebruikers zelf aan kunnen maken is het mogelijk de resultaten van iedereen in de groep te categorieseren per circuit.<br>
+Om wat meer inzicht te creëren over hoe deze webapplicatie ongeveer gaat werken is deze schets gemaakt waarin de requirements verwerkt zijn.<br>
+
+![Conceptueel Model](KartStatsV2/Content/Images/Schets.png)
 
 ## Requirements
 
@@ -24,11 +24,6 @@ KARTER:
 
 BEHEERDER:
 - Als beheerder wil ik circuits kunnen toevoegen
-
-## UI Schets
-Om wat meer inzicht te creëren over hoe deze webapplicatie ongeveer gaat werken is deze schets gemaakt waarin de requirements verwerkt zijn.<br>
-
-![Conceptueel Model](KartStatsV2/Content/Images/Schets.png)
 
 ## Contextdiagram en Conceptueel model
 
